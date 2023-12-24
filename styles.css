@@ -56,3 +56,9 @@ body {
     align-items: center;
     margin-left: 90px;
 }
+
+@media (max-width: 900px) {
+    body {
+      visibility: hidden;
+    }
+  }
